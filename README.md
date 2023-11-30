@@ -92,8 +92,6 @@ In return I will give a free PCB design in KiCad to all patreon supporters. To l
 
 [![](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/patreon_small.png)](https://www.patreon.com/ldad)
 
-<br />
-<br />
 
 #
 

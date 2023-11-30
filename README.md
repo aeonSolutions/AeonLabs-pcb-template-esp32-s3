@@ -21,6 +21,9 @@ Last update: 30-11-2023
 
 # PCB template ESP32 S3
 
+<p align="center">
+   <img height="350" src="https://github.com/aeonSolutions/AeonLabs-pcb-template-esp32-s3/blob/main/Circuit%20Schematic/esp32_c3_circuit_schematic.png">
+</p>
 
 #
 ## Firmware Download 
